@@ -1,0 +1,10 @@
+<html><head>
+<b> arpit django  </b>
+
+</head>
+
+<body>arpit django var1 = {{var1}} 
+var2 = {{var2}}
+</body>
+
+</html>
